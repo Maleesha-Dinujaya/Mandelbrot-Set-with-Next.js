@@ -5,6 +5,10 @@ An interactive web application built with Next.js and TypeScript that renders an
 *(Feel free to replace this placeholder with your own screenshot\!)*
 
 -----
+<img width="929" height="844" alt="Screenshot 2025-10-28 170608" src="https://github.com/user-attachments/assets/d947e794-17d5-4b60-ac10-424e01692571" />
+<img width="919" height="691" alt="Screenshot 2025-10-28 170704" src="https://github.com/user-attachments/assets/156a9c9b-1608-4c9c-bd84-c94e68d9100c" />
+<img width="908" height="677" alt="Screenshot 2025-10-28 170729" src="https://github.com/user-attachments/assets/04ddd3f4-42cf-4316-a7ee-d1c6b4c1e96d" />
+
 
 # 🧐 What is This?
 
